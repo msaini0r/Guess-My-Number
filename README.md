@@ -17,7 +17,6 @@ This repository contains a simple guess game in which you have to choose a numbe
     </p>
   </tr>
 </table>
-<hr>
 
 <h1 align="center">⚡Connect with me⚡</h1>
 
