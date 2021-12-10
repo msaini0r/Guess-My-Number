@@ -4,7 +4,7 @@
 
 This repository contains a simple guess game in which you have to choose a number from 1 - 20. This Game is made with the help of Html, Css $ JavaScript.
 
-
+<hr>
 ## Preview ✅
 
 <table style="border:1px solid;">
@@ -17,7 +17,6 @@ This repository contains a simple guess game in which you have to choose a numbe
     </p>
   </tr>
 </table>
-<br>
 <hr>
 
 <h1 align="center">⚡Connect with me⚡</h1>
