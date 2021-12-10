@@ -3,9 +3,9 @@
 ## Description 📝
 
 This repository contains a simple guess game in which you have to choose a number from 1 - 20. This Game is made with the help of Html, Css $ JavaScript.
-<br/>
+<br>
 You can play this game bt clicking here -- <a href="https://msaini0r.github.io/Guess-My-Number/">Link</a>
-<br/>
+</br>
 ## Preview ✅
 <!-- <h1 align="center"> Preview ✅</h1> -->
 <hr>
